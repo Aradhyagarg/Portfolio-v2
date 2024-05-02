@@ -10,7 +10,7 @@ import {
 } from "react-scroll";
 
 const Header = () => {
-  
+
   const PhoneStyles = {
     marginTop: '15px',
     marginBottom: '10px',
@@ -35,10 +35,7 @@ const Header = () => {
             Software Engineer
           </h2>
           <p className="mt-2 lg:max-w-sm leading-relaxed text-justify">
-            I build accessible, inclusive products and digital experiences for
-            the web. I enjoy taking on new challenges and collaborating with
-            other developers to create innovative and impactful products that
-            solve real-world problems.
+            I am pursuing my BE Cse with a passion for developing scalable web applications and working across the mern stack. I love to upgrade my existing skills by continuously learning new technologies. I am eager to join tech companies to further enhance my skills, gain valuable experience, and contribute to the success of the organization.
           </p>
 
           <div className="mt-3 max-w-xs flex">
