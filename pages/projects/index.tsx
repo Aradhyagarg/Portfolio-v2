@@ -106,7 +106,7 @@ const Project = () => {
                     Developed a dynamic web application using React.js and Next.js for frontend development.
                     Integrated Firebase for efficient image and gif data storage and management.
                     Implemented features allowing users to seamlessly upload, view, delete, and download images and gifs.
-                    Utilized Firebase's real-time database capabilities for secure and instant access to uploaded images and gifs.
+                    Utilized Firebase real-time database capabilities for secure and instant access to uploaded images and gifs.
                   </p>
                 </div>
                 <img
