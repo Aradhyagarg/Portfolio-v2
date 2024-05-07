@@ -12,24 +12,11 @@ const About = () => {
       </div>
       <div>
         <p className="mb-4 text-justify">
-          {" "}
-          <a
-            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://devskill.com/"
-            target="_blank"
-            rel="noreferrer"
-          >
-       
-          </a>
-          
-          <a
-            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
-            href="https://www.asthait.com/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            
-          </a>
+          Hey there! I'm Aradhya Garg, a dynamic full-stack developer who thrives on building captivating, user-centric web applications. My journey blends a keen eye for design with robust development skills, resulting in seamless user experiences.
+
+          Beyond my professional endeavors, I've delved into a plethora of freelance and personal projects, each a testament to my prowess in web development. From concept to execution.
+
+          Let's collaborate and bring my digital vision to life with innovation and finesse.
         </p>
         <p className="mb-4 text-justify">
           I also like sharing content in{" "}
@@ -41,14 +28,23 @@ const About = () => {
           >
             LinkedIn
           </a>{" "}
-          
         </p>
         <p className="mb-4 text-justify">
           I&apos;m interested in{" "}
           <b className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
             Full-Time
           </b>{" "}
-          
+        </p>
+        <p className="mb-4 text-justify">
+        Got an idea that's ready to take flight?{" "}<br></br>
+          <a
+            className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300"
+            href="mailto:aradhya.gargag89@gmail.com"
+            target="_blank"
+            rel="noreferrer"
+          >
+            aradhya.gargag89@gmail.com
+          </a>{" "}
         </p>
       </div>
 
@@ -115,37 +111,42 @@ const About = () => {
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              ExpressJs
+                ExpressJs
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              Redux
+                Redux
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              Bootstrap
+                Bootstrap
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              NodeJs
+                NodeJs
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              SQL
+                SQL
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              Mongodb
+                Mongodb
               </div>
             </li>
             <li className="mr-1.5 mt-2">
               <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-              Restful APIs
+                Restful APIs
+              </div>
+            </li>
+            <li className="mr-1.5 mt-2">
+              <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                Redis
               </div>
             </li>
             <li className="mr-1.5 mt-2">

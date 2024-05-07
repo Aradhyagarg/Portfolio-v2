@@ -23,7 +23,7 @@ export default function Home() {
       <Certifications />
       <div className="mt-20">
         A copied design and coded in Visual Studio Code by myself truly. Built
-        with NextJs and Tailwind CSS, deployed with Netlify.
+        with NextJs and Tailwind CSS, deployed with Vercel.
       </div>
     </>
   );
